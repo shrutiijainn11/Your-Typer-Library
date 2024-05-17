@@ -1,2 +1,2 @@
-# Your-Typer-Library-
+# Your-Typer-Library
 JavaScript project
